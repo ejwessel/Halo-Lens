@@ -1,0 +1,1336 @@
+{
+    "lens_id": "",
+    "document_id": "Z41UYvwbtJ4k7qTM0yU3",
+    "original_document_id": "Z41UYvwbtJ4k7qTM0yU3",
+    "version": "28",
+    "lastChanged": "1630642502506",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Bloom Resources",
+                        "Bloom [EDIT_ME]"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Info Card [DELETE_ME]"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Info Card [DELETE_ME]",
+                        "Fonts"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Info Card [DELETE_ME]",
+                        "Fonts",
+                        "Lato-Bold"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Info Card [DELETE_ME]",
+                        "Fonts",
+                        "Lato-Regular"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Info Card [DELETE_ME]",
+                        "Materials"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Info Card [DELETE_ME]",
+                        "Materials",
+                        "info_card"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Info Card [DELETE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Info Card [DELETE_ME]",
+                        "Textures",
+                        "info_card"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Materials",
+                        "Gold"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Meshes",
+                        "torus",
+                        "Meshes"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Meshes",
+                        "torus",
+                        "Meshes",
+                        "Resource"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Textures",
+                        "bloom_camera_render_target"
+                    ],
+                    [
+                        "Bloom Resources",
+                        "Textures",
+                        "iridescence_combined"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "25fca1bb56a6b88c54f9a7df2614bf5a",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Angel Halo",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1630641764904617:64603"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1630641705962374:56280"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1630641705948135:56244",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1630641705951697:56258",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1630641705955383:56268",
+                    "name": "Files\/File8.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1630641705962374:56280",
+                    "name": "Files\/File10",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1630641706014106:56308",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1630641706070446:56444",
+                    "name": "Files\/File14.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1630641706077217:56456",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1630641706303557:56472",
+                    "name": "Files\/File19.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1630641706307662:56484",
+                    "name": "Files\/File20.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1630641706312099:56500",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1630641706354640:56528",
+                "4": "1630641706359138:56544",
+                "5": "1630641706359298:56546",
+                "6": "1630641706412995:56617",
+                "7": "1630641764903975:64602",
+                "8": "1630641764904617:64603",
+                "9": "1630641764975728:64627"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Bloom",
+                    "layerMask": "128",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.lsmat"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.lsmat"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.mesh"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.pvr"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.ttf"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.ttf"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "1275",
+                        "v": "Bloom Resources"
+                    },
+                    {
+                        "k": "1276",
+                        "v": "Bloom Resources\/Textures"
+                    },
+                    {
+                        "k": "1277",
+                        "v": "Bloom Resources\/Textures\/iridescence_combined.png"
+                    },
+                    {
+                        "k": "1278",
+                        "v": "Bloom Resources\/Bloom [EDIT_ME].lsmat"
+                    },
+                    {
+                        "k": "1279",
+                        "v": "Bloom Resources\/Materials"
+                    },
+                    {
+                        "k": "1280",
+                        "v": "Bloom Resources\/Materials\/Gold.lsmat"
+                    },
+                    {
+                        "k": "1281",
+                        "v": "Bloom Resources\/Meshes"
+                    },
+                    {
+                        "k": "1282",
+                        "v": "Bloom Resources\/Meshes\/torus"
+                    },
+                    {
+                        "k": "1283",
+                        "v": "Bloom Resources\/Meshes\/torus\/Meshes"
+                    },
+                    {
+                        "k": "1284",
+                        "v": "Bloom Resources\/Meshes\/torus\/Meshes\/Resource.mesh"
+                    },
+                    {
+                        "k": "1285",
+                        "v": "Bloom Resources\/Info Card [DELETE_ME]"
+                    },
+                    {
+                        "k": "1286",
+                        "v": "Bloom Resources\/Info Card [DELETE_ME]\/Textures"
+                    },
+                    {
+                        "k": "1287",
+                        "v": "Bloom Resources\/Info Card [DELETE_ME]\/Textures\/info_card.png"
+                    },
+                    {
+                        "k": "1288",
+                        "v": "Bloom Resources\/Info Card [DELETE_ME]\/Fonts"
+                    },
+                    {
+                        "k": "1289",
+                        "v": "Bloom Resources\/Info Card [DELETE_ME]\/Fonts\/Lato-Bold.ttf"
+                    },
+                    {
+                        "k": "1290",
+                        "v": "Bloom Resources\/Info Card [DELETE_ME]\/Fonts\/Lato-Regular.ttf"
+                    },
+                    {
+                        "k": "1291",
+                        "v": "Bloom Resources\/Info Card [DELETE_ME]\/Materials"
+                    },
+                    {
+                        "k": "1292",
+                        "v": "Bloom Resources\/Info Card [DELETE_ME]\/Materials\/info_card.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "1277",
+                        "v": "464f444dfcba88908c256dddc14e2779"
+                    },
+                    {
+                        "k": "1278",
+                        "v": "f087657979ea1428359a00ae5eb16964"
+                    },
+                    {
+                        "k": "1280",
+                        "v": "e44f449b6207d4969ecb7d1dbfdfa6a4"
+                    },
+                    {
+                        "k": "1284",
+                        "v": "0ba4c880320df9f8ecea4edb13990b64"
+                    },
+                    {
+                        "k": "1287",
+                        "v": "a6e321bed066b22e0e725b65c13f0a6a"
+                    },
+                    {
+                        "k": "1289",
+                        "v": "85d339d916479f729938d2911b85bf1f"
+                    },
+                    {
+                        "k": "1290",
+                        "v": "2d36b1a925432bae7f3c53a340868c6e"
+                    },
+                    {
+                        "k": "1292",
+                        "v": "aecf0f142d3acb7406927cfedf0a2f4c"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-09-02T21:06:44",
+                        "name": "Public",
+                        "hash": "2f259d397edc1cf77f8e2cfbc58a469c",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-09-02T21:13:56",
+                                "name": "Bloom Resources",
+                                "hash": "72946bf447e38b6465985c060fae68bc",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-09-02T21:06:44",
+                                        "name": "Textures",
+                                        "hash": "ed69ed08610aa420068b1c5df7d5c1ec",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-09-02T21:01:45",
+                                                "name": "iridescence_combined.png",
+                                                "hash": "464f444dfcba88908c256dddc14e2779",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-09-02T21:01:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-09-02T21:13:56",
+                                        "name": "Materials",
+                                        "hash": "723c5b8a7d4c5d2c0ca93cebd65f316a",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-09-02T21:13:56",
+                                                "name": "Gold.lsmat",
+                                                "hash": "dd331858c44bc08eeff12c604ed6901e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-09-02T21:01:46",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-09-02T21:06:44",
+                                        "name": "Info Card [DELETE_ME]",
+                                        "hash": "0f287bb3798be08879683c10ad727d36",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-09-02T21:06:44",
+                                                "name": "Textures",
+                                                "hash": "14003f53f77a24206c6f09889610bfaa",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-09-02T21:01:45",
+                                                        "name": "info_card.png",
+                                                        "hash": "a6e321bed066b22e0e725b65c13f0a6a",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-09-02T21:01:46",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-09-02T21:13:56",
+                                                "name": "Materials",
+                                                "hash": "9147060b5c9b4c468649a412c2a6d417",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-09-02T21:13:56",
+                                                        "name": "info_card.lsmat",
+                                                        "hash": "88308f5c26cac971d015061cdd8ffe14",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-09-02T21:01:46",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-09-02T21:06:44",
+                                                "name": "Fonts",
+                                                "hash": "7070b3bfd3a533084be7dd5041a103eb",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-09-02T21:01:45",
+                                                        "name": "Lato-Bold.ttf",
+                                                        "hash": "85d339d916479f729938d2911b85bf1f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-09-02T21:01:45",
+                                                        "name": "Lato-Regular.ttf",
+                                                        "hash": "2d36b1a925432bae7f3c53a340868c6e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-09-02T21:01:46",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-09-02T21:01:46",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-09-02T21:13:56",
+                                        "name": "Bloom [EDIT_ME].lsmat",
+                                        "hash": "fd3caaeafa7bb7f1ce88786ef79b7e54",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-09-02T21:06:44",
+                                        "name": "Meshes",
+                                        "hash": "c0cb24cf1457c0036cc583d8c0621703",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-09-02T21:06:44",
+                                                "name": "torus",
+                                                "hash": "7189b10812fbd594e0645caab3a1e1ff",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2021-09-02T21:06:44",
+                                                        "name": "Meshes",
+                                                        "hash": "2cf8ebc1cfe6edb9d080ff4d7e774736",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-09-02T21:01:45",
+                                                                "name": "Resource.mesh",
+                                                                "hash": "0ba4c880320df9f8ecea4edb13990b64",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-09-02T21:01:46",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-09-02T21:01:46",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-09-02T21:01:46",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-09-02T21:01:45",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-10T17:46:02",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-10T17:46:02",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bloom Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1275",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1276",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Screen Texture",
+                                        "type": "1",
+                                        "subtype": "16",
+                                        "resourceId": "12",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1630641705948135:56244",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "bloom_camera_render_target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1630641705951697:56258",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "iridescence_combined",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1630641705955383:56268",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "1277",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-fmcrBC\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "464f444dfcba88908c256dddc14e2779"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Bloom [EDIT_ME]",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1630641705962374:56280",
+                                "fileId": "10",
+                                "originalId": "11",
+                                "publicId": "1278",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1279",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Gold",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1630641706014106:56308",
+                                        "fileId": "12",
+                                        "originalId": "13",
+                                        "publicId": "1280",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1281",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "torus",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1282",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1283",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Resource",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "17",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1630641706070446:56444",
+                                                        "fileId": "14",
+                                                        "originalId": "15",
+                                                        "publicId": "1284",
+                                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-fmcrBC\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Info Card [DELETE_ME]",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1285",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1286",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "info_card",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "18",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1630641706077217:56456",
+                                                "fileId": "16",
+                                                "originalId": "17",
+                                                "publicId": "1287",
+                                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-fmcrBC\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "a6e321bed066b22e0e725b65c13f0a6a"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fonts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1288",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Lato-Bold",
+                                                "type": "13",
+                                                "subtype": "0",
+                                                "resourceId": "19",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1630641706303557:56472",
+                                                "fileId": "19",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1289",
+                                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-fmcrBC\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Lato-Regular",
+                                                "type": "13",
+                                                "subtype": "0",
+                                                "resourceId": "20",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1630641706307662:56484",
+                                                "fileId": "20",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1290",
+                                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-fmcrBC\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1291",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "info_card",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "21",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1630641706312099:56500",
+                                                "fileId": "21",
+                                                "originalId": "22",
+                                                "publicId": "1292",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1630641706077217:56456",
+                    "v": {
+                        "infos": {
+                            "originalSize": "9940",
+                            "compressedSize": "6116",
+                            "originalRAM": "2560000",
+                            "compressedRAM": "320000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "18",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a6e321bed066b22e0e725b65c13f0a6a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "23"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1630641705948135:56244",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641705951697:56258",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641705955383:56268",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641705962374:56280",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641706014106:56308",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641706070446:56444",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641706077217:56456",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641706303557:56472",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641706307662:56484",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641706312099:56500",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                },
+                {
+                    "k": "1630641706354640:56528",
+                    "v": "1DlikLL8DonWv66vRR9w4l"
+                }
+            ]
+        }
+    }
+}
